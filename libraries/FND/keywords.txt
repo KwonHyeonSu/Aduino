@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map FND
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+FND	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+setFndVal	KEYWORD2
+setNum	KEYWORD2
+setAllNum	KEYWORD2
+
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+fndAddr1	KEYWORD2
+fndAddr2	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+REG_PORTA	LITERAL1
+REG_PORTB	LITERAL1
+REG_IOSETA	LITERAL1
+REG_IOSETB	LITERAL1

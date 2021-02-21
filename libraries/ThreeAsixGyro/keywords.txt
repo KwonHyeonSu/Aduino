@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map ThreeAsixGyro
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ThreeAsixGyro	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+readXValue	KEYWORD2
+readYValue	KEYWORD2
+readZValue	KEYWORD2
+read		KEYWORD2
+
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+gyroAddr	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################

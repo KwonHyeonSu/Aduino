@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map Temperature
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Temperature	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+getTemperatureC	KEYWORD2
+getTemperatureF	KEYWORD2
+readTemperature	KEYWORD2
+
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+tempAddr	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+REG_TEMP	LITERAL1
+REG_CONF	LITERAL1
+REG_TLOW	LITERAL1
+REG_THIGH	LITERAL1

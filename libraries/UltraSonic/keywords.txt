@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map UltraSonic
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+UltraSonic	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+ReadDistanceMilimeter	KEYWORD2
+ReadDistanceCentimeter	KEYWORD2
+ReadDistanceInche	KEYWORD2
+getDuration	KEYWORD2
+
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+ultraPin	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################

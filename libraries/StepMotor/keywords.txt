@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map StepMotor
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+StepMotor	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+setSpeed	KEYWORD2
+setStep	KEYWORD2
+on	KEYWORD2
+off	KEYWORD2
+setDirection	KEYWORD2
+setSleep	KEYWORD2
+getStateOn	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################

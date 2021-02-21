@@ -1,0 +1,36 @@
+#######################################
+# Syntax Coloring Map LED
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LED	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+setLed	KEYWORD2
+On	KEYWORD2
+Off	KEYWORD2
+AllOn	KEYWORD2
+AllOff	KEYWORD2
+AllOnOff	KEYWORD2
+ShiftRight	KEYWORD2
+ShiftLeft	KEYWORD2
+
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+ledAddr	KEYWORD2
+ledState	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+REG_PORTA	LITERAL1
+REG_IOSETA	LITERAL1

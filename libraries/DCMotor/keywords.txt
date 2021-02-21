@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map DCMotor
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DCMotor	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+setSpeed	KEYWORD2
+Start	KEYWORD2
+Stop	KEYWORD2
+getStateOn	KEYWORD2
+
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+dcPin1	KEYWORD2
+dcPin2	KEYWORD2
+dcSpeed	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
